@@ -38,4 +38,5 @@ Lembrando que deve ser possível também converter de forma inversa ou seja:
 
 ## Desenvolvido por:
 
-[Fábio penha](https://www.github.com/fabiopenha)
+[Fábio penha](https://www.github.com/fabiopenha)<br><br>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-penha/)
